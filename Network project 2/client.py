@@ -1,5 +1,6 @@
 from socket import *
 from _thread import *
+from _thread import *
 
 s=socket((AF_INET),SOCK_STREAM)
 host= "127.0.0.1"
